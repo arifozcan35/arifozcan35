@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif Özcan</h1>
-<h3 align="center">I’m into backend web development 🎈</h3>
+<h3 align="center">I’m into backend web development and artificial intelligence 🎈</h3>
 
-- 💬 Ask me about **Java and Spring Boot**
+- 💬 Ask me about **Java Spring Boot and Python**
 
 - 📫 How to reach me **zcanarif@gmail.com**
 
