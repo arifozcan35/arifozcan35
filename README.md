@@ -18,4 +18,4 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifozcan35&show_icons=true&locale=en&layout=compact" alt="arifozcan35" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifozcan35&show_icons=true&theme=radical&title_color=f10909&locale=en&layout=compact" alt="arifozcan35" /></p>
